@@ -19,7 +19,7 @@
 ### STEP 01 - Clone the repo
 
 ```bash
-https://github.com/ommallick02/Kidney-Disease-Classification-Pytorch-Temp
+https://github.com/ommallick02/Kidney-Disease-Classification-Pytorch
 ```
 ### STEP 02 - Create and activate a conda environment after opening the repository
 
