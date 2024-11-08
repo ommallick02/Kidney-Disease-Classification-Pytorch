@@ -6,7 +6,7 @@ with open("README.md", "r", encoding="utf-8") as f:
 
 __version__ = "0.0.0"
 
-REPO_NAME = "Kidney-Disease-Classification-Pytorch-Temp"
+REPO_NAME = "Kidney-Disease-Classification-Pytorch"
 AUTHOR_USER_NAME = "ommallick02"
 SRC_REPO = "cnnClassifier"
 AUTHOR_EMAIL = "om.mallick02@gmail.com"
